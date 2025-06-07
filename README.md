@@ -20,10 +20,10 @@ This app simulates real-time course and enrollment updates using WebSockets. You
 
 ## Project Structure
 
-react-redux-ws-app/
-│
-├── server/ # Backend Express server with WebSocket integration
-├── websocket-client/ # React + Redux frontend client
+- react-redux-ws-app/
+- │
+- ├── server/ # Backend Express server with WebSocket integration
+- ├── websocket-client/ # React + Redux frontend client
 
 ---
 
@@ -91,5 +91,5 @@ npm run dev
 
 - WebSocket integration using ws package for real-time updates
 ## Contact
-Created by James Gitere
-Email: gitere.dev@gmail.com
+- Created by James Gitere
+- Email: gitere.dev@gmail.com
